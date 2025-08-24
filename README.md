@@ -145,7 +145,7 @@
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://twitter.com/yourusername">
+      <a href="https://twitter.com/ShreyashPatil80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" alt="Twitter"/>
         <br />
         <sub><b>Twitter</b></sub>
