@@ -53,16 +53,18 @@
 
 ## 🎨 Fun Animations
 
+<!-- Coding Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </p>
 
+---
 
-### 🌀 Extra Fun Animations
+### 🌀 Extra Fun Animations  
 
-<!-- Snake Animation -->
+<!-- Snake Animation (Dark mode) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
