@@ -98,11 +98,11 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/Shreyash-SP80/">
+  <a href="https://github.com/Shreyash-SP80/Collage-ResultManagement-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=Collage-Result-ManagemntSystem&theme=radical"/>
-  </a>
-  <a href="https://github.com/Shreyash-SP80/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=Skill-to-Career-Roadmap-Generator&theme=radical"/>
+  </a> <br/>
+  <a href="https://github.com/Shreyash-SP80/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=my-portfolio&theme=radical"/>
   </a>
 </p>
 
