@@ -15,30 +15,6 @@
 ---
 
 
-<!-- ## 🌟 About Me -->
-
-<!--
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="width: 65%; vertical-align: top; border: none; padding: 0; margin: 0;">
-      <p>- 🎓 Final Year Student | <strong>C++ & Full-Stack Developer</strong></p>
-      <p>- 💻 Currently sharpening skills in <strong>Data Structures & Algorithms (DSA)</strong></p>
-      <p>- 🚀 Building real-world <strong>Full-Stack Projects</strong> (MERN / React + Express)</p>
-      <p>- ⚡ Exploring exciting fields like <strong>AI Agents, Data Science, and Advanced React</strong></p>
-      <p>- 🌱 Continuously learning <strong>Java, Aptitude, and Problem-Solving Techniques</strong></p>
-      <p>- 💬 Love discussing: <code>C++</code>, <code>Java</code>, <code>Python</code>, <code>Web Development</code>, <code>DSA</code></p>
-    </td>
-    <td style="width: 35%; vertical-align: middle; border: none; padding: 0; margin: 0; text-align: center;">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
-    </td>
-  </tr>
-</table>
--->
-
-
-<!-- | 🎓 Final Year Student \| **C++ & Full-Stack Developer** <br> 💻 Currently sharpening skills in **Data Structures & Algorithms (DSA)** <br> 🚀 Building real-world **Full-Stack Projects** (MERN / React + Express) <br> ⚡ Exploring exciting fields like **AI Agents, Data Science, and Advanced React** <br> 🌱 Continuously learning **Java, Aptitude, and Problem-Solving Techniques** <br> 💬 Love discussing: `C++`, `Java`, `Python`, `Web Development`, `DSA` | <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/> |
-| :--- | :--- | -->
-
 
 
 ## ⚡ Tech Identity
