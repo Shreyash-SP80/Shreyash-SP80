@@ -33,11 +33,6 @@ Motto : Learn. Build. Share. Grow.
 ---
 
 ## 🛠️ Tech Stack
-<!--
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,express,mongodb,git,github,linux,sqlite,mysql&perline=8" />
-</p>
--->
 
  <p align="center">
   <!-- First Row -->
@@ -116,7 +111,7 @@ Motto : Learn. Build. Share. Grow.
     <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/patilshreyash8078" target="_blank">
+  <a href="https://instagram.com/patilshreyash638" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" alt="Instagram"/>
   </a>
 </p>
