@@ -13,18 +13,7 @@
 <!-- F700FF -->
 
 ---
-<!--
-## 🌟 About Me
-- 🎓 Final Year Student | **C++ & Full-Stack Developer**
-- 💻 Currently sharpening skills in **Data Structures & Algorithms (DSA)**
-- 🚀 Building real-world **Full-Stack Projects** (MERN / React + Express)
-- ⚡ Exploring exciting fields like **AI Agents, Data Science, and Advanced React**
-- 🌱 Continuously learning **Java, Aptitude, and Problem-Solving Techniques**
-- 💬 Love discussing: `C++`, `Java`, `Python`, `Web Development`, `DSA`
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
-</p>
--->
+
 
 <!-- ## 🌟 About Me -->
 
