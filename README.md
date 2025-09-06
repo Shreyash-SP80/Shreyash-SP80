@@ -57,6 +57,8 @@ Motto : Learn. Build. Share. Grow.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/kali-linux.png" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postman,docker" height="48"/>
 </p>
 
 ---
