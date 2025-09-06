@@ -6,9 +6,11 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Shreyash-SP80">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Shreyash+Patil;A+Developer+from+India;I+Love+Coding+and+Problem+Solving;Let's+Build+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Shreyash+Patil;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
   </a>
 </p>
+
+<!-- F700FF -->
 
 ---
 <!--
@@ -24,7 +26,7 @@
 </p>
 -->
 
-## 🌟 About Me
+<!-- ## 🌟 About Me -->
 
 <!--
 <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -45,9 +47,23 @@
 -->
 
 
-| 🎓 Final Year Student \| **C++ & Full-Stack Developer** <br> 💻 Currently sharpening skills in **Data Structures & Algorithms (DSA)** <br> 🚀 Building real-world **Full-Stack Projects** (MERN / React + Express) <br> ⚡ Exploring exciting fields like **AI Agents, Data Science, and Advanced React** <br> 🌱 Continuously learning **Java, Aptitude, and Problem-Solving Techniques** <br> 💬 Love discussing: `C++`, `Java`, `Python`, `Web Development`, `DSA` | <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/> |
-| :--- | :--- |
+<!-- | 🎓 Final Year Student \| **C++ & Full-Stack Developer** <br> 💻 Currently sharpening skills in **Data Structures & Algorithms (DSA)** <br> 🚀 Building real-world **Full-Stack Projects** (MERN / React + Express) <br> ⚡ Exploring exciting fields like **AI Agents, Data Science, and Advanced React** <br> 🌱 Continuously learning **Java, Aptitude, and Problem-Solving Techniques** <br> 💬 Love discussing: `C++`, `Java`, `Python`, `Web Development`, `DSA` | <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/> |
+| :--- | :--- | -->
 
+
+
+## ⚡ Tech Identity
+```
+Name : Shreyash Patil
+Role : Final Year Student | C++ & Full-Stack Developer
+Focus : Data Structures & Algorithms + MERN Stack + Full Stack Java
+Exploring: AI Agents | Data Science | Problem-Solving | Aptitude
+Vision : Build impactful projects while mastering core CS concepts
+Motto : Learn. Build. Share. Grow.
+```
+<div align="center">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"/>
+</div>
 
 ---
 
@@ -85,6 +101,7 @@
 ---
 
 ## 📊 GitHub Stats & Streak
+<!-- theme=chartreuse-dark -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
@@ -109,31 +126,6 @@
 <!--
 ---
 
-## 🎨 Fun Animations
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-</p>
-
--->
-
-<!--
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
--->
 ---
 <!-- Animated connection links with working icons -->
 ## 🌐 Socials
@@ -146,23 +138,26 @@
   <a href="https://linkedin.com/in/shreyash-patil-sp7213" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://twitter.com/ShreyashPatil80" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:shreyashpatil8078@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Shreyash-SP80" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/patilshreyash8078" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" alt="Instagram"/>
   </a>
 </p>
+
+
+
 
 <!-- Connection animation -->
 
@@ -172,10 +167,10 @@
 </p>
 
 
-<!-- Network animation -->
+<!-- Network animation
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Connection animation" />
-</p>
+</p> -->
 
 <!-- ### 🌀 Flow of Code -->
 <!-- Snake Animation (Dark mode) -->
@@ -183,11 +178,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<!--
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
--->
 
 <!-- Profile views counter -->
 <p align="center">
@@ -199,11 +189,6 @@
 ---
 
 ## 🎯 Developer Wisdom
-<!--
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Developer wisdom quote" />
-</p>
--->
 
 <p align="center">
   <a href="https://github.com/PiyushSuthar/github-readme-quotes" target="_blank">
