@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Shreyash-SP80">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Shreyash+Patil;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Shreyash+Patil;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
   </a>
 </p>
 
