@@ -10,6 +10,8 @@
 
 <img src="./assets/videos/Zenstu.gif" alt="Zenstu" width="1200" height="300">
 
+<img src="./assets/videos/char.gif" alt="Zenstu" width="1200" height="300">
+
      
 <!-- Typing Animation -->
 <p align="center">
