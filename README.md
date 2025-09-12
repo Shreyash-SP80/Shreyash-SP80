@@ -5,8 +5,11 @@
 
 <img src="./assets/videos/Zenstu.gif"
      alt="Zenstu"
-     style="max-height:30vh; width:100%; height:auto; object-fit:contain;" />
+     style="width:100vw; max-height:30vh; height:auto; object-fit:contain;" />
 
+<img src="./assets/videos/Zenstu.gif" alt="Zenstu" width="100%">
+
+     
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Shreyash-SP80">
