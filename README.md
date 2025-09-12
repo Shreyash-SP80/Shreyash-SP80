@@ -8,7 +8,7 @@
      style="width:100vw; max-height:30vh; height:auto; object-fit:contain;" />
 
 
-<img src="./assets/videos/Zenstu.gif" alt="Zenstu" width="1200" height="500">
+<img src="./assets/videos/Zenstu.gif" alt="Zenstu" width="1200" height="300">
      
 <!-- Typing Animation -->
 <p align="center">
