@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Banner 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1D2671&height=180&section=header&text=🚀%20Shreyash%20Patil%20|%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -6,7 +6,7 @@
 <img src="./assets/videos/Zenstu.gif"
      alt="Zenstu"
      style="width:100vw; max-height:30vh; height:auto; object-fit:contain;" />
-
+-->
 
 <img src="./assets/videos/Zenstu.gif" alt="Zenstu" width="1200" height="300">
      
