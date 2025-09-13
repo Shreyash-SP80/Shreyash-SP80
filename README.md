@@ -108,7 +108,7 @@ Motto : Learn. Build. Share. Grow.
 <div align="center">
   
 ## 🤝 Let's Connect and Create Something Amazing!
-
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/shreyash-patil-sp7213" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
@@ -130,7 +130,28 @@ Motto : Learn. Build. Share. Grow.
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" alt="Instagram"/>
   </a>
 </p>
+-->
 
+<div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/shreyash-patil-sp7213/">
+        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Shreyash-SP80">
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/patilshreyash638/">
+        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
+        <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:shreyashpatil8078@gmail.com">
+        <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
+        <img src="https://img.icons8.com/plasticine/40/000000/resume.png">
+    </a>
+</div>
 
 
 
