@@ -76,11 +76,12 @@ Motto : Learn. Build. Share. Grow.
 
 ## 📊 GitHub Stats & Streak
 <!-- theme=chartreuse-dark -->
+<!-- radical -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-SP80&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-SP80&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-SP80&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-SP80&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 
