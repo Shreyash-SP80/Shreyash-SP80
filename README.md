@@ -148,7 +148,7 @@ Motto : Learn. Build. Share. Grow.
     <a style="margin-left: 10px;" target="_blank" href="mailto:shreyashpatil8078@gmail.com">
         <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Shreyash-SP80/my-portfolio/blob/main/public/Resume/Shreyash%20Resume%20updated.pdf">
         <img src="https://img.icons8.com/plasticine/40/000000/resume.png">
     </a>
 </div>
