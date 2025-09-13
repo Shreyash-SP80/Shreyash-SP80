@@ -91,10 +91,10 @@ Motto : Learn. Build. Share. Grow.
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/Shreyash-SP80/Collage-ResultManagement-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=Collage-ResultManagement-System&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=Collage-ResultManagement-System&theme=tokyonight"/>
   </a> <br/>
   <a href="https://github.com/Shreyash-SP80/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=my-portfolio&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=my-portfolio&theme=tokyonight"/>
   </a>
 </p>
 
