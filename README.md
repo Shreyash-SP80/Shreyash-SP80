@@ -142,7 +142,7 @@ Motto : Learn. Build. Share. Grow.
     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/patilshreyash638/">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
+    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ShreyashPatil80">
         <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="mailto:shreyashpatil8078@gmail.com">
