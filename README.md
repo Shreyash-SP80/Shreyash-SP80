@@ -180,6 +180,8 @@ Motto : Learn. Build. Share. Grow.
   <img src="https://komarev.com/ghpvc/?username=Shreyash-SP80&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
+# > <code align="left">⠀Activity⠀</code>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyash-Sp80&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/Shreyash-Sp80)
 </div>
 
 ---
@@ -194,6 +196,15 @@ Motto : Learn. Build. Share. Grow.
 
 
 <!-- Footer Banner -->
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
 </p>
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:215e73,50:278998,100:1a4e62&height=120&section=footer"/>
+</p>
+
+
+
