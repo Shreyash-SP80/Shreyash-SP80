@@ -12,7 +12,7 @@
 <img src="./assets/videos/geo2.gif" alt="Zenstu" width="1200" height="300">
 <img src="./assets/videos/Zenstu2.gif" alt="Zenstu" width="1200" height="300">
 -->
-<img src="./assets/videos/Legend.gif" alt="Zenstu" width="1200" height="300">
+<img src="./assets/videos/char.gif" alt="Zenstu" width="1200" height="300">
 
 
 <!-- Typing Animation -->
@@ -88,6 +88,7 @@ Motto : Learn. Build. Share. Grow.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-SP80&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="./assets/videos/Legend.gif" alt="Zenstu" height="200" width="300">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-SP80&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
