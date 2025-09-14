@@ -50,12 +50,12 @@ Motto : Learn. Build. Share. Grow.
   ## ⚡ Tech Identity
     
   ```
-    Name : Shreyash Patil
-    Role : Final Year Student | C++ & Full-Stack Developer
-    Focus : Data Structures & Algorithms + MERN Stack + Full Stack Java
-    Exploring: AI Agents | Data Science | Problem-Solving | Aptitude
-    Vision : Build impactful projects while mastering core CS concepts
-    Motto : Learn. Build. Share. Grow.
+Name : Shreyash Patil
+Role : Final Year Student | C++ & Full-Stack Developer
+Focus : Data Structures & Algorithms + MERN Stack + Full Stack Java
+Exploring: AI Agents | Data Science | Problem-Solving | Aptitude
+Vision : Build impactful projects while mastering core CS concepts
+Motto : Learn. Build. Share. Grow.
   ```
 
   </div>
@@ -66,6 +66,12 @@ Motto : Learn. Build. Share. Grow.
   </div>
 
 </div>
+
+| ⚡ Tech Identity <br><br> **Name** : Shreyash Patil <br> **Role** : Final Year Student &#124; C++ & Full-Stack Developer <br> **Focus** : Data Structures & Algorithms + MERN Stack + Full Stack Java <br> **Exploring** : AI Agents &#124; Data Science &#124; Problem-Solving &#124; Aptitude <br> **Vision** : Build impactful projects while mastering core CS concepts <br> **Motto** : Learn. Build. Share. Grow. | <img src="./assets/videos/geo2.gif" width="300" height="200"/> |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+
+
+
 
 ---
 
