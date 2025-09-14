@@ -28,7 +28,7 @@
 
 
 
-
+<!--
 ## ⚡ Tech Identity
 ```
 Name : Shreyash Patil
@@ -40,6 +40,31 @@ Motto : Learn. Build. Share. Grow.
 ```
 <div align="center">
     <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"/>
+</div>
+-->
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <!-- Left Side: Tech Identity -->
+  <div>
+  ## ⚡ Tech Identity
+    
+  ```
+    Name : Shreyash Patil
+    Role : Final Year Student | C++ & Full-Stack Developer
+    Focus : Data Structures & Algorithms + MERN Stack + Full Stack Java
+    Exploring: AI Agents | Data Science | Problem-Solving | Aptitude
+    Vision : Build impactful projects while mastering core CS concepts
+    Motto : Learn. Build. Share. Grow.
+  ```
+
+  </div>
+
+  <!-- Right Side: GIF -->
+  <div>
+    <img src="./assets/videos/geo2.gif" width="300" height="200"/>
+  </div>
+
 </div>
 
 ---
