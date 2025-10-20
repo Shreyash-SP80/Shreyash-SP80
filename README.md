@@ -103,7 +103,7 @@ Motto : Learn. Build. Share. Grow.
 </p>
 
 
-
+<!--
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/Shreyash-SP80/Collage-ResultManagement-System">
@@ -113,7 +113,7 @@ Motto : Learn. Build. Share. Grow.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=my-portfolio&theme=tokyonight"/>
   </a>
 </p>
-
+-->
 <!--
 ---
 
