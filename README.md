@@ -12,10 +12,7 @@
 <img src="./assets/videos/geo2.gif" alt="Zenstu" width="1200" height="300">
 <img src="./assets/videos/Zenstu2.gif" alt="Zenstu" width="1200" height="300">
 -->
-<!-- Profile views counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shreyash-SP80&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+
 <img src="./assets/videos/char.gif" alt="Zenstu" width="1200" height="250">
 
 
@@ -26,6 +23,10 @@
   </a>
 </p>
 
+<!-- Profile views counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Shreyash-SP80&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
 <!-- F700FF -->
 
