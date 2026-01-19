@@ -95,6 +95,9 @@ Motto : Learn. Build. Share. Grow.
 </p>
 
 -->
+
+## 🛠️ Tech Stack
+
 <p align="center">
   <!-- First Row : Languages & Frontend -->
   <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
