@@ -4,7 +4,7 @@
 </p> 
 
 <img src="./assets/videos/Zenstu.gif"
-     alt="Zenstu"
+     alt="Zenstu" 
      style="width:100vw; max-height:30vh; height:auto; object-fit:contain;" />
 
 
