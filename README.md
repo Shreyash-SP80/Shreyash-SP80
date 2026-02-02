@@ -208,9 +208,14 @@ Motto : Learn. Build. Share. Grow.
 
 <!-- ### 🌀 Flow of Code -->
 <!-- Snake Animation (Dark mode) -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p> -->
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
+
 
 
 
