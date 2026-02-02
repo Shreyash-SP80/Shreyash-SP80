@@ -213,7 +213,7 @@ Motto : Learn. Build. Share. Grow.
 </p> -->
 
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+  <img src="./assets/space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 
