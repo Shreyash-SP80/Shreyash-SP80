@@ -96,10 +96,14 @@ Motto : Learn. Build. Share. Grow.
 
 -->
 
+
+
+<!--
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- First Row : Languages & Frontend -->
+  <!-- First Row : Languages & Frontend --
   <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" />
@@ -114,7 +118,7 @@ Motto : Learn. Build. Share. Grow.
 </p>
 
 <p align="center">
-  <!-- Second Row : Backend, DB & Tools -->
+  <!-- Second Row : Backend, DB & Tools --
   <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
@@ -128,13 +132,57 @@ Motto : Learn. Build. Share. Grow.
 </p>
 
 <p align="center">
-  <!-- Third Row : Cloud -->
+  <!-- Third Row : Cloud --
   <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" />
-  <!-- <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" /> --
   <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=appwrite" width="48" height="48" />
 </p>
 
+-->
+
+## 🛠️ Tech Stack
+
+<!-- First Row : Languages & Frontend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" width="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
+
+  <img src="https://skillicons.dev/icons?i=java" width="48"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+</p>
+
+<!-- Second Row : Backend, DB & Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+
+  <img src="https://img.icons8.com/color/48/kali-linux.png" width="48"/>
+
+  <img src="https://skillicons.dev/icons?i=postman" width="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+</p>
+
+
+<!-- Third Row : Cloud -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure" width="48"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+  <img src="https://skillicons.dev/icons?i=appwrite" width="48"/>
+</p>
 
 ## 📊 GitHub Stats & Streak
 <!-- theme=chartreuse-dark --
